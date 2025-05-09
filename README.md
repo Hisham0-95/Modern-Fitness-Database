@@ -4,4 +4,4 @@ For the advanced database course, we had a team project to create an EERD, mappi
 SQL Server
 # Learned Skills:
 1- Implemented my SQL skills in a real case study(DDL, DML, DQL) <br>
-2- 
+2- Enhanced my teamwork skills with a new team project experience
